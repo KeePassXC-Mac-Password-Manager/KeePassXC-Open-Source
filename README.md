@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kwevidienes.github.io/.github/keepassxc">
+<a href="https://swaffordnoora.github.io/.github/keepassxc-password-manager">
 <img src="https://img.shields.io/badge/GET_KeePassXC-darkgreen?style=for-the-badge&logo=lock" alt="GET KeePassXC">
 </a>
 </div>
